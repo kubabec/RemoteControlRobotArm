@@ -1,0 +1,16 @@
+﻿  Reading Qt configuration (C:\Qt\5.9.9\msvc2017_64\bin\qmake.exe)
+  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  Moc'ing UDPSock.h...
+  Moc'ing mainwindow.h...
+  AngleSolver.cpp
+  GUIRenderer.cpp
+  HorizontalSlider.cpp
+  main.cpp
+  mainwindow.cpp
+  UDPSock.cpp
+c:\users\kubab_docfidf\documents\megasync\praca inzynierska\gui\robotcontroler\udpsock.cpp(27): warning C4189: 'udpsuccess': local variable is initialized but not referenced
+c:\users\kubab_docfidf\documents\megasync\praca inzynierska\gui\robotcontroler\mainwindow.cpp(130): warning C4100: 'event': unreferenced formal parameter
+  moc_UDPSock.cpp
+  moc_mainwindow.cpp
+  RobotControler.vcxproj -> C:\Users\kubab_docfidf\Documents\MEGAsync\Praca inzynierska\GUI\RobotControler\debug\RobotControler.exe
